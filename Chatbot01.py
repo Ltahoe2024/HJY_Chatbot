@@ -15,7 +15,7 @@ from langchain_openai import ChatOpenAI
 import streamlit as st
 import time
  
-st.title("AI Chatbot powered by OpenAI")
+st.title("여기는 챗봇과 대화하는서비스입니다.")
 st.caption("언어모델 : gpt-4o")
  
 # Set a default model
